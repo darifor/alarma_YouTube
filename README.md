@@ -1,6 +1,6 @@
 # Alarma de YouTube ⏰ 
 
-![Static Badge](https://img.shields.io/badge/python-brightgreen?style=for-the-badge&logo=python&labelColor=black)
+![Static Badge](https://img.shields.io/badge/python-brightgreen?style=for-the-badge&logo=python&labelColor=black&link=https%3A%2F%2Fgithub.com%2Fdarifor%2Falarma_YouTube)
 
 Esta aplicación te permite establecer una alarma y, a la hora seleccionada, comenzará a reproducirse un video de YouTube elegido aleatoriamente por el sistema de entre una lista de videos almacenados en un archivo de texto externo a la aplicación. 
 
